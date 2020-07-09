@@ -1,2 +1,2 @@
 # CSS_Task3
-It is the Third Task of CSS where I have to clone exactly of the web-page that was shown in the video.
+Designing a Web Page using HTML and CSS where I have to work exactly of the web-page that was shown in the video.
