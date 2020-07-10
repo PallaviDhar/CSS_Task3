@@ -5,10 +5,13 @@ Designing a Web Page using HTML and CSS where I have done  exactly of the web-pa
 
 # Screenshots
 
-![3 1](https://user-images.githubusercontent.com/66560935/87165015-2a3b8880-c2e7-11ea-8680-46078c2ffd7d.png)
+![3 1](https://user-images.githubusercontent.com/66560935/87166199-d7fb6700-c2e8-11ea-84b2-6ddc15cfaaf7.png)
 
-![3 2](https://user-images.githubusercontent.com/66560935/87165022-2c9de280-c2e7-11ea-8cd0-17b78cf89a17.png)
 
-![3 3](https://user-images.githubusercontent.com/66560935/87165028-2dcf0f80-c2e7-11ea-9033-528e053175a0.png)
+![3 2](https://user-images.githubusercontent.com/66560935/87166205-d9c52a80-c2e8-11ea-914e-3c2b77f33a78.png)
 
-![3 4](https://user-images.githubusercontent.com/66560935/87165032-30ca0000-c2e7-11ea-948c-0fd33603c07d.png)
+
+![3 3](https://user-images.githubusercontent.com/66560935/87166210-db8eee00-c2e8-11ea-9bf0-cb6fff0fda0c.png)
+
+
+![3 4](https://user-images.githubusercontent.com/66560935/87166217-dd58b180-c2e8-11ea-92ff-c5ac9b1dd25f.png)
